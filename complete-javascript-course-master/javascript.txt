@@ -1,0 +1,6 @@
+es -> ECMA script.
+es5, es6, es7 ... es11
+from es6 till now it is called the modern javascript.
+
+javascript can be used for fronted using -> react, viw, angular 
+javascript can be used for backend using -> node js. 
