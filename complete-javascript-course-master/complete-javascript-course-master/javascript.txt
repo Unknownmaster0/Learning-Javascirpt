@@ -1,0 +1,16 @@
+es -> ECMA script.
+es5, es6, es7 ... es11
+from es6 till now it is called the modern javascript.
+
+javascript can be used for fronted using -> react, viw, angular 
+javascript can be used for backend using -> node js. 
+
+Redeclaration of the same variable will not losse its original value.[ but only using the 'var' keyword you can achieve this Redeclaration nature of the variable. ]
+
+
+typeof -> keyword in javascript that shows the data type of the value and variable;
+
+in javascript values have the dataType not the variable.
+
+
+
